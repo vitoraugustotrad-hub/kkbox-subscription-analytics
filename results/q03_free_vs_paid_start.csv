@@ -1,0 +1,5 @@
+started_free,started_auto_renew,users,pct_paid_at_least_once,pct_paid_twice_or_more,avg_revenue_180d,avg_revenue_of_payers
+false,false,195948,100.0,59.6,784,784
+false,true,286705,100.0,98.7,663,663
+true,false,105048,7.6,4.4,53,699
+true,true,60419,36.5,30.7,202,554

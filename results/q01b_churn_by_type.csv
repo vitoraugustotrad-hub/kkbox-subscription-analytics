@@ -1,0 +1,9 @@
+spike_month,is_free,is_auto_renew,expiries,pct_of_expiries,pct_churn_30d
+false,false,false,1817768,12.7,19.92
+false,false,true,11959117,83.9,0.93
+false,true,false,220732,1.5,75.70
+false,true,true,264846,1.9,4.17
+true,false,false,351565,10.7,19.85
+true,false,true,2571138,78.0,6.64
+true,true,false,337748,10.2,94.12
+true,true,true,34841,1.1,5.03

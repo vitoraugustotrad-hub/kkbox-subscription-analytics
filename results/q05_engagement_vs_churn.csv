@@ -1,0 +1,9 @@
+is_auto_renew,first_week_usage,users,pct_of_group,churners,pct_churn
+false,1) 0 days,4832,5.7,3135,64.88
+false,2) 1-2 days,11129,13.2,5347,48.05
+false,3) 3-5 days,25897,30.8,10145,39.17
+false,4) 6-7 days,42181,50.2,13536,32.09
+true,1) 0 days,127248,24.5,4918,3.86
+true,2) 1-2 days,96516,18.6,2730,2.83
+true,3) 3-5 days,140121,27.0,3464,2.47
+true,4) 6-7 days,155247,29.9,3284,2.12
